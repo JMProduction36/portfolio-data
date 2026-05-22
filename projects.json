@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Crystalline UI System",
+    "type": "UI/UX Design",
+    "date": "2024",
+    "size": "2.4 MB",
+    "image": "https://media.base44.com/images/public/69f85add879c4e167ad0c68b/39628d4a2_generated_878a69e4.png",
+    "description": "A comprehensive design system built on the principles of transparency and layered depth. Every component is crafted to feel like frosted glass.",
+    "role": "Lead Designer",
+    "tools": "Figma, After Effects, Three.js"
+  },
+  {
+    "id": 2,
+    "name": "Verdant Brand Identity",
+    "type": "Branding",
+    "date": "2024",
+    "size": "5.1 MB",
+    "image": "https://media.base44.com/images/public/69f85add879c4e167ad0c68b/d2afdaa15_generated_4ced87e8.png",
+    "description": "Complete brand identity for a sustainable architecture firm. Rooted in natural forms and brutalist typography.",
+    "role": "Creative Director",
+    "tools": "Illustrator, InDesign, Cinema4D"
+  },
+  {
+    "id": 3,
+    "name": "Aureate Experience Platform",
+    "type": "Web Development",
+    "date": "2023",
+    "size": "3.8 MB",
+    "image": "https://media.base44.com/images/public/69f85add879c4e167ad0c68b/60c4c01fb_generated_7a0ea75a.png",
+    "description": "Full-stack experience platform for a luxury watchmaker. Features spatial audio and kinetic typography.",
+    "role": "Full-Stack Developer",
+    "tools": "React, Three.js, GSAP, Node.js"
+  },
+  {
+    "id": 4,
+    "name": "Construct Editorial",
+    "type": "Editorial Design",
+    "date": "2023",
+    "size": "8.2 MB",
+    "image": "https://media.base44.com/images/public/69f85add879c4e167ad0c68b/47aad5609_generated_96105fba.png",
+    "description": "A 120-page editorial publication exploring the intersection of architecture and digital art.",
+    "role": "Art Director",
+    "tools": "InDesign, Photoshop, Risograph"
+  },
+  {
+    "id": 5,
+    "name": "Fold Motion Identity",
+    "type": "Motion Design",
+    "date": "2023",
+    "size": "12.6 MB",
+    "image": "https://media.base44.com/images/public/69f85add879c4e167ad0c68b/c2e85b50b_generated_dd1efabf.png",
+    "description": "Dynamic visual identity system with generative motion graphics. Every touchpoint is alive.",
+    "role": "Motion Designer",
+    "tools": "After Effects, Houdini, TouchDesigner"
+  },
+  {
+    "id": 6,
+    "name": "Monolith Data Dashboard",
+    "type": "Product Design",
+    "date": "2022",
+    "size": "4.3 MB",
+    "image": "https://media.base44.com/images/public/69f85add879c4e167ad0c68b/2a9dc1f42_generated_9d9142c5.png",
+    "description": "Enterprise data visualization dashboard with real-time analytics and spatial data mapping.",
+    "role": "Product Designer",
+    "tools": "Figma, D3.js, Mapbox, React"
+  }
+]
