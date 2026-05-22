@@ -1,19 +1,19 @@
 {
-  "name": "Mein Raum",
-  "title": "Creative Developer & Designer",
-  "location": "Berlin, Germany",
+  "name": "Piolet Jean-Marc",
+  "title": "Étudiant en BTS SIO",
+  "location": "Châteauroux, France",
   "bio": [
-    "I design and build digital experiences at the intersection of precision engineering and creative expression. With over 8 years spanning UI/UX, brand identity, motion design, and full-stack development.",
-    "My work is rooted in spatial functionalism — the belief that digital spaces should be as carefully architected as physical ones. Every pixel serves a purpose. Every interaction tells a story."
+    "Communication, non violente 🤙🤙, Orque Nv1, attaque 13 & ÉPÉE DE SAGOUIN !!! 🔥",
+    "La vengeance n'est pas une ligne droite. C'est une forêt, on peut donc facilement s'y égarer, s'y perdre, oublier par où on est entré."
   ],
   "stats": [
-    { "label": "Years", "value": "8+" },
-    { "label": "Projects", "value": "50+" },
-    { "label": "Clients", "value": "30+" }
+    { "label": "Niveau d'étude", "value": "BAC+1" },
+    { "label": "Projets", "value": "2" },
+    { "label": "Oeuvres fictives écrites et postées", "value": "2" }
   ],
   "links": [
-    { "icon": "mail", "label": "hello@meinraum.dev", "href": "mailto:hello@meinraum.dev" },
-    { "icon": "github", "label": "github.com/meinraum", "href": "https://github.com/meinraum" },
-    { "icon": "linkedin", "label": "linkedin.com/in/meinraum", "href": "https://linkedin.com/in/meinraum" }
+    { "icon": "mail", "label": "jeanmarc_piolet@protonmail.com", "href": "mailto:hello@meinraum.dev" },
+    { "icon": "github", "label": "github.com/JMProduction36", "href": "https://github.com/JMProduction36" },
+    { "icon": "linkedin", "label": "linkedin.com/in/Jean-Marc PIOLET", "href": "https://www.linkedin.com/in/jean-marc-piolet-21b52232a/" }
   ]
 }
